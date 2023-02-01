@@ -49,7 +49,7 @@ const Insta = () =>{
 
  <div style={{marginTop:"" ,marginLeft:"10%"}}>
           
-           <img src={yash} style={{height:"70px", width:"220px", marginLeft:"35px"}} />
+           <img src={yash} alt="insta" style={{height:"70px", width:"220px", marginLeft:"35px"}} />
 
          <div><input style={{width:"82%" , marginTop:"32px",fontSize:"13px",padding:"11px" ,backgroundColor:"rgb(251, 248, 244)" ,borderRadius:'3px',border:"0px"}} placeholder='Phone number,username or email,address'
          value={Name} 
