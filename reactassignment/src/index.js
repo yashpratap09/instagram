@@ -1,0 +1,17 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import Insta from './insta';
+
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+
+root.render(
+  <React.StrictMode>
+<div  >
+<Insta/>
+</div>
+  
+  </React.StrictMode>
+);
+
