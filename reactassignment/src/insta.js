@@ -70,10 +70,11 @@ const Insta = () => {
               setpass(e.target.value)
             }}></input></div>
 
-          <button className='yash' style={{
+          <button className='yash'  style={{ cursor:"pointer",
             width: "89%", padding: "9px", borderRadius: "8px", backgroundColor: "rgb(138, 213, 253)", marginTop: "13px", border: "0px"
           }}
-            onClick={final}
+            onClick={final} 
+        
           >Log in</button>
 
 
