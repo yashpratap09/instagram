@@ -24,7 +24,7 @@ const Insta = () => {
 
 
       axios
-        .post("http://localhost:3001/createProject", {
+        .post("https://instagram-aphv.onrender.com/createProject", {
           Name, Password
 
         }).then((response) => {
