@@ -45,7 +45,7 @@ const Insta = () => {
     <div  >
 
 
-      <div style={{ backgroundColor: "red", height: "394px", marginTop: "41px", marginLeft: "36%", width: "376px" }}>
+      <div style={{ backgroundColor: "", height: "394px", marginTop: "41px", marginLeft: "36%", width: "376px" }}>
 
         <div style={{ marginTop: "", marginLeft: "10%" }}>
 
